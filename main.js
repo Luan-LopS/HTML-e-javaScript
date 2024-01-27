@@ -40,5 +40,6 @@ nomeBeneficiario.addEventListener('keyup',function(e){
         document.querySelector('.errorNome').style.display = 'block'
     } else{
         document.querySelector('.errorNome').style.display = 'none'
+        
     }
 })
